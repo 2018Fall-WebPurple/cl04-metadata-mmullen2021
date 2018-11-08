@@ -1,0 +1,31 @@
+/*
+*Maura Mullen
+*November 5
+*Dogs
+*/
+/* The universal selector*/
+* {
+}
+/*Body attributes here*/
+body{
+    width: 80%;
+background-color: floralwhite;    
+}
+    
+#dogs {
+    width: 450px;
+    height: 300px;
+}
+
+p{
+    font-family: "Sinhala Sangam MN"   
+}
+
+header{background:lightcoral;}
+    
+main{background:paleturquoise;}
+    
+    
+footer{background:plum;}
+    
+    
